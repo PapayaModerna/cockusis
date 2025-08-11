@@ -1,0 +1,36 @@
+[02:57:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:57:58] [ServerMain/INFO]: No existing world data, creating new world
+[02:57:59] [ServerMain/INFO]: Loaded 1407 recipes
+[02:57:59] [ServerMain/INFO]: Loaded 1520 advancements
+[02:57:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:57:59] [Server thread/INFO]: Loading properties
+[02:57:59] [Server thread/INFO]: Default game type: SURVIVAL
+[02:57:59] [Server thread/INFO]: Generating keypair
+[02:57:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:57:59] [Server thread/INFO]: Using epoll channel type
+[02:57:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:57:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:57:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:57:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:57:59] [Server thread/INFO]: Preparing level "world"
+[02:58:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:58:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:58:07] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:58:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:58:08] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[02:58:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[02:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:58:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:58:10] [Server thread/INFO]: Time elapsed: 4361 ms
+[02:58:10] [Server thread/INFO]: Done (10.988s)! For help, type "help"
+[02:59:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:05:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:05:44] [Server thread/INFO]: wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip<--[HERE]
+[03:05:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:05:44] [Server thread/INFO]: unzip ngrok-stable-linux-amd64.zip<--[HERE]
+[03:05:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:05:58] [Server thread/INFO]: chmod +x ngrokwget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip<--[HERE]
+[03:06:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:06:05] [Server thread/INFO]: chmod +x ngrok<--[HERE]
