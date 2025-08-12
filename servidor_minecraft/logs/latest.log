@@ -1,24 +1,52 @@
-[18:15:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:15:34] [ServerMain/INFO]: Loaded 1407 recipes
-[18:15:34] [ServerMain/INFO]: Loaded 1520 advancements
-[18:15:35] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:15:35] [Server thread/INFO]: Loading properties
-[18:15:35] [Server thread/INFO]: Default game type: SURVIVAL
-[18:15:35] [Server thread/INFO]: Generating keypair
-[18:15:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:15:35] [Server thread/INFO]: Using epoll channel type
-[18:15:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:15:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:15:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:15:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:15:35] [Server thread/INFO]: Preparing level "world"
-[18:15:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:15:38] [Server thread/INFO]: Time elapsed: 2664 ms
-[18:15:38] [Server thread/INFO]: Done (3.020s)! For help, type "help"
-[18:16:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:27:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:27:19] [ServerMain/INFO]: Loaded 1407 recipes
+[20:27:19] [ServerMain/INFO]: Loaded 1520 advancements
+[20:27:19] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:27:19] [Server thread/INFO]: Loading properties
+[20:27:19] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:19] [Server thread/INFO]: Generating keypair
+[20:27:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:19] [Server thread/INFO]: Using epoll channel type
+[20:27:19] [Server thread/INFO]: Preparing level "world"
+[20:27:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:24] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[20:27:24] [Server thread/INFO]: Time elapsed: 4638 ms
+[20:27:24] [Server thread/INFO]: Done (4.979s)! For help, type "help"
+[20:28:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:28:43] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
+[20:28:44] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:56280] logged in with entity id 8 at (49.5, 67.0, 195.5)
+[20:28:44] [Server thread/INFO]: PapayaModera joined the game
+[20:30:12] [Server thread/INFO]: PapayaModera has made the advancement [Stone Age]
+[20:30:45] [Server thread/INFO]: PapayaModera has made the advancement [Getting an Upgrade]
+[20:32:14] [Server thread/INFO]: PapayaModera lost connection: Disconnected
+[20:32:14] [Server thread/INFO]: PapayaModera left the game
+[20:32:31] [User Authenticator #2/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
+[20:32:32] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:38948] logged in with entity id 1536 at (-104.54119463580078, 67.0, 459.1497359859189)
+[20:32:32] [Server thread/INFO]: PapayaModera joined the game
+[20:34:56] [Server thread/INFO]: PapayaModera has made the advancement [Acquire Hardware]
+[20:35:19] [Server thread/INFO]: PapayaModera has made the advancement [Suit Up]
+[20:35:29] [Server thread/INFO]: PapayaModera has made the advancement [Isn't It Iron Pick]
+[20:36:16] [Server thread/INFO]: PapayaModera has made the advancement [A Seedy Place]
+[20:37:00] [Server thread/INFO]: PapayaModera has made the advancement [Sweet Dreams]
+[20:37:26] [User Authenticator #3/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
+[20:37:27] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:46432] logged in with entity id 3436 at (107.86515296772146, 70.0, 835.3000000119209)
+[20:37:27] [Server thread/INFO]: Dned_0 joined the game
+[20:42:28] [Server thread/INFO]: PapayaModera has made the advancement [What a Deal!]
+[20:49:05] [Server thread/INFO]: PapayaModera has made the advancement [Monster Hunter]
+[20:51:34] [Server thread/INFO]: Dned_0 lost connection: Disconnected
+[20:51:34] [Server thread/INFO]: Dned_0 left the game
+[20:51:38] [User Authenticator #4/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
+[20:51:39] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:59696] logged in with entity id 6731 at (143.59482931294602, 79.0, 866.3000000119209)
+[20:51:39] [Server thread/INFO]: Dned_0 joined the game
+[20:56:53] [Server thread/INFO]: Dned_0 has made the advancement [We Need to Go Deeper]
+[20:56:56] [Server thread/INFO]: PapayaModera has made the advancement [We Need to Go Deeper]
+[20:57:05] [Server thread/INFO]: PapayaModera has made the advancement [Country Lode, Take Me Home]
