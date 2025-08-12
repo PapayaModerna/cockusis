@@ -1,44 +1,26 @@
-[00:06:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:06:33] [ServerMain/INFO]: Loaded 1407 recipes
-[00:06:33] [ServerMain/INFO]: Loaded 1520 advancements
-[00:06:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:06:33] [Server thread/INFO]: Loading properties
-[00:06:33] [Server thread/INFO]: Default game type: SURVIVAL
-[00:06:33] [Server thread/INFO]: Generating keypair
-[00:06:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:06:33] [Server thread/INFO]: Using epoll channel type
-[00:06:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:06:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:06:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:06:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:06:33] [Server thread/INFO]: Preparing level "world"
-[00:06:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:06:37] [Server thread/INFO]: Time elapsed: 4177 ms
-[00:06:37] [Server thread/INFO]: Done (4.492s)! For help, type "help"
-[00:07:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:12:56] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:36214] logged in with entity id 5 at (124.38955776392335, 80.5625, 882.0876433825404)
-[00:12:56] [Server thread/INFO]: PapayaModera joined the game
-[00:14:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=106, y=81, z=887} jb{x=108, y=79, z=888}
-[00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=102, y=80, z=882} jb{x=102, y=78, z=881}
-[00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=77, z=879} jb{x=101, y=78, z=881}
-[00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=102, y=78, z=880} jb{x=102, y=77, z=879}
-[00:30:48] [Server thread/INFO]: PapayaModera lost connection: Disconnected
-[00:30:48] [Server thread/INFO]: PapayaModera left the game
-[00:31:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:33:20] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:58762] logged in with entity id 4080 at (142.6187021784985, 64.0, 764.3208366660726)
-[00:33:20] [Server thread/INFO]: PapayaModera joined the game
-[00:48:36] [Server thread/INFO]: PapayaModera lost connection: Timed out
-[00:48:36] [Server thread/INFO]: PapayaModera left the game
-[00:48:36] [Server thread/WARN]: handleDisconnection() called twice
-[00:48:39] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:46670] logged in with entity id 7765 at (116.08847906590118, 79.0, 880.8137514212748)
-[00:48:39] [Server thread/INFO]: PapayaModera joined the game
-[00:50:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=81, z=905} jb{x=125, y=79, z=905}
+[02:23:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:23:34] [ServerMain/INFO]: Loaded 1407 recipes
+[02:23:34] [ServerMain/INFO]: Loaded 1520 advancements
+[02:23:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:23:34] [Server thread/INFO]: Loading properties
+[02:23:34] [Server thread/INFO]: Default game type: SURVIVAL
+[02:23:34] [Server thread/INFO]: Generating keypair
+[02:23:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:23:34] [Server thread/INFO]: Using epoll channel type
+[02:23:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:23:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:23:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:23:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:23:35] [Server thread/INFO]: Preparing level "world"
+[02:23:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:23:37] [Server thread/INFO]: Time elapsed: 2600 ms
+[02:23:37] [Server thread/INFO]: Done (2.909s)! For help, type "help"
+[02:24:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:31:05] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:47886] logged in with entity id 5 at (114.83923566109257, 85.5625, 883.5108294602259)
+[02:31:05] [Server thread/INFO]: PapayaModera joined the game
