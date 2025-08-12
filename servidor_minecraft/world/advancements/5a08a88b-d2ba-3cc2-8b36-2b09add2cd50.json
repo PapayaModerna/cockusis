@@ -312,7 +312,9 @@
       "cooked_porkchop": "2025-08-11 05:04:41 +0000",
       "apple": "2025-08-12 03:37:41 +0000",
       "bread": "2025-08-11 04:58:10 +0000",
+      "cooked_chicken": "2025-08-12 04:02:30 +0000",
       "rotten_flesh": "2025-08-12 03:27:29 +0000",
+      "cooked_mutton": "2025-08-12 04:02:26 +0000",
       "glow_berries": "2025-08-11 04:02:17 +0000",
       "mushroom_stew": "2025-08-11 03:47:46 +0000",
       "porkchop": "2025-08-11 04:53:44 +0000"
@@ -1999,9 +2001,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-12 04:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-08-12 03:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-12 04:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
     },
     "done": true
   },
@@ -2014,6 +2034,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-12 04:04:38 +0000"
     },
     "done": true
   },
@@ -2071,6 +2097,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 03:39:39 +0000"
@@ -2080,6 +2118,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
     },
     "done": true
   },
@@ -2095,9 +2139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-12 04:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
     },
     "done": true
   },
@@ -2119,9 +2175,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-12 03:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
     },
     "done": true
   },
@@ -2149,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-12 03:23:03 +0000"
@@ -2158,6 +2232,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-12 03:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-12 04:00:51 +0000"
     },
     "done": true
   },
@@ -2194,6 +2274,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_the_recipe": "2025-08-12 03:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-12 04:00:06 +0000"
     },
     "done": true
   },
