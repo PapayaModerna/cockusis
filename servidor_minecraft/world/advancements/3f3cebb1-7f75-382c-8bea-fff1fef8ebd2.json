@@ -7,10 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-08-12 04:14:49 +0000",
       "minecraft:flower_forest": "2025-08-11 05:11:22 +0000",
       "minecraft:beach": "2025-08-11 04:31:06 +0000",
       "minecraft:dark_forest": "2025-08-11 03:40:20 +0000",
       "minecraft:forest": "2025-08-11 04:31:31 +0000",
+      "minecraft:deep_ocean": "2025-08-12 04:12:46 +0000",
       "minecraft:river": "2025-08-11 04:30:58 +0000",
       "minecraft:stony_shore": "2025-08-11 03:40:23 +0000",
       "minecraft:lush_caves": "2025-08-11 03:55:43 +0000",
