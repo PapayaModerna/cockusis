@@ -31,3 +31,8 @@
 [00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=102, y=80, z=882} jb{x=102, y=78, z=881}
 [00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=77, z=879} jb{x=101, y=78, z=881}
 [00:14:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=102, y=78, z=880} jb{x=102, y=77, z=879}
+[00:30:48] [Server thread/INFO]: PapayaModera lost connection: Disconnected
+[00:30:48] [Server thread/INFO]: PapayaModera left the game
+[00:31:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:33:20] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:58762] logged in with entity id 4080 at (142.6187021784985, 64.0, 764.3208366660726)
+[00:33:20] [Server thread/INFO]: PapayaModera joined the game
