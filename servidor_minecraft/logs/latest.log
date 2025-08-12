@@ -31,3 +31,12 @@
 [02:44:22] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:40946] logged in with entity id 2897 at (126.68765508172683, 79.5625, 882.6999999880791)
 [02:44:22] [Server thread/INFO]: Dned_0 joined the game
 [02:48:05] [Server thread/INFO]: Dned_0 has made the advancement [Ice Bucket Challenge]
+[03:06:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=85, z=839} jb{x=152, y=85, z=837}
+[03:06:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=85, z=839} jb{x=152, y=85, z=837}
+[03:09:22] [Server thread/INFO]: PapayaModera has made the advancement [A Seedy Place]
+[03:10:52] [Server thread/INFO]: PapayaModera lost connection: Disconnected
+[03:10:52] [Server thread/INFO]: PapayaModera left the game
+[03:11:15] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:60964] logged in with entity id 9756 at (113.14518080966016, 80.0, 914.5916941825)
+[03:11:15] [Server thread/INFO]: PapayaModera joined the game
+[03:23:29] [Server thread/INFO]: Dned_0 has made the advancement [We Need to Go Deeper]
+[03:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3197ms or 63 ticks behind
