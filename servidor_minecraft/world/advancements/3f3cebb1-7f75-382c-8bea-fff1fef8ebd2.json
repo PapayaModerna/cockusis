@@ -507,6 +507,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-12 04:39:21 +0000",
       "minecraft:skeleton": "2025-08-11 03:59:00 +0000",
       "minecraft:enderman": "2025-08-11 04:17:31 +0000",
       "minecraft:spider": "2025-08-11 04:53:07 +0000",
@@ -1609,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-12 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-12 03:58:06 +0000"
@@ -1666,6 +1673,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-12 02:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-12 04:33:28 +0000"
     },
     "done": true
   },
@@ -1729,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-12 04:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-12 02:52:44 +0000"
@@ -1755,7 +1774,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-08-12 03:23:32 +0000"
+      "minecraft:crimson_forest": "2025-08-12 04:50:40 +0000",
+      "minecraft:nether_wastes": "2025-08-12 03:23:32 +0000",
+      "minecraft:soul_sand_valley": "2025-08-12 04:40:43 +0000"
     },
     "done": false
   },
@@ -1891,6 +1912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-12 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-12 02:51:22 +0000"
@@ -1915,9 +1942,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-12 04:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-12 04:32:10 +0000"
     },
     "done": true
   },
@@ -1987,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-12 04:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-12 03:47:03 +0000"
@@ -2020,6 +2065,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-08-12 03:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-12 04:32:43 +0000"
     },
     "done": true
   },
