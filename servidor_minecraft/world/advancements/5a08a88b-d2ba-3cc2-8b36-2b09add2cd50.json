@@ -1993,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-12 03:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-08-12 03:39:50 +0000"
@@ -2125,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-12 03:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-12 03:39:39 +0000"
@@ -2140,6 +2152,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-12 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-12 03:44:20 +0000"
     },
     "done": true
   },
@@ -2170,6 +2188,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_string": "2025-08-12 03:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_the_recipe": "2025-08-12 03:41:38 +0000"
     },
     "done": true
   },
