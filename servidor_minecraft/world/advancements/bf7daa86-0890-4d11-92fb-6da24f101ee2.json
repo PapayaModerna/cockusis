@@ -886,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-08-12 21:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-12 20:37:00 +0000"
@@ -937,7 +943,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-12 21:03:03 +0000",
-      "minecraft:spider": "2025-08-12 20:49:05 +0000"
+      "minecraft:spider": "2025-08-12 20:49:05 +0000",
+      "minecraft:ghast": "2025-08-12 21:18:26 +0000",
+      "minecraft:hoglin": "2025-08-12 21:19:20 +0000"
     },
     "done": false
   },
@@ -1258,6 +1266,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-12 20:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-12 21:20:36 +0000"
     },
     "done": true
   },
