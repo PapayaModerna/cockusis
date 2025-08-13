@@ -1,254 +1,31 @@
-[03:32:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:32:50] [ServerMain/INFO]: Loaded 1407 recipes
-[03:32:50] [ServerMain/INFO]: Loaded 1520 advancements
-[03:32:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[03:32:50] [Server thread/INFO]: Loading properties
-[03:32:50] [Server thread/INFO]: Default game type: SURVIVAL
-[03:32:50] [Server thread/INFO]: Generating keypair
-[03:32:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:32:50] [Server thread/INFO]: Using epoll channel type
-[03:32:50] [Server thread/INFO]: Preparing level "world"
-[03:32:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:32:55] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[03:32:55] [Server thread/INFO]: Time elapsed: 4395 ms
-[03:32:55] [Server thread/INFO]: Done (4.646s)! For help, type "help"
-[03:33:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:34:37] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
-[03:34:39] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:45924] logged in with entity id 55 at (-4335.300000011921, 76.0, 18354.202639897827)
-[03:34:39] [Server thread/INFO]: PapayaModera joined the game
-[03:36:15] [User Authenticator #2/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
-[03:36:17] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:60718] logged in with entity id 469 at (-4337.987469659024, 76.0, 18352.30000001192)
-[03:36:17] [Server thread/INFO]: Dned_0 joined the game
-[03:40:53] [Server thread/INFO]: Dned_0 has made the advancement [Best Friends Forever]
-[03:41:10] [User Authenticator #3/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[03:41:12] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:44592] logged in with entity id 3792 at (77.33573635132177, 71.0, 194.3894190759616)
-[03:41:12] [Server thread/INFO]: LemZtarchild joined the game
-[03:41:22] [Server thread/INFO]: <LemZtarchild> hola
-[03:41:24] [Server thread/INFO]: <PapayaModera> D
-[03:42:20] [Server thread/INFO]: <LemZtarchild> a
-[03:42:22] [Server thread/INFO]: <LemZtarchild> a
-[03:42:23] [Server thread/INFO]: <LemZtarchild> a
-[03:42:25] [Server thread/INFO]: <LemZtarchild> a
-[03:42:25] [Server thread/INFO]: <LemZtarchild> a
-[03:42:26] [Server thread/INFO]: <LemZtarchild> a
-[03:42:32] [Server thread/INFO]: <LemZtarchild> estoy en llamada
-[03:42:33] [Server thread/INFO]: <LemZtarchild> ontan
-[03:42:49] [Server thread/INFO]: <PapayaModera> -4113 17683
-[03:42:50] [Server thread/INFO]: <Dned_0> -4108 18469
-[03:43:26] [Server thread/INFO]: <PapayaModera> VE a la casa
-[03:43:39] [Server thread/INFO]: <PapayaModera> frente a la mansion hay una zona con arena
-[03:43:45] [Server thread/INFO]: <LemZtarchild> xd
-[03:43:53] [Server thread/INFO]: <LemZtarchild> ya
-[03:43:58] [Server thread/INFO]: <LemZtarchild> voy hacia alla
-[03:43:59] [Server thread/INFO]: <LemZtarchild> pero
-[03:44:08] [Server thread/INFO]: <LemZtarchild> porque no hicmos la base aca que siempre se cargan los chuks
-[03:44:24] [Server thread/INFO]: <LemZtarchild> hagan portal al nether
-[03:44:27] [Server thread/INFO]: <LemZtarchild> me equipare y voy}
-[03:45:45] [Server thread/INFO]: <LemZtarchild> abrieron?
-[03:45:51] [Server thread/INFO]: <Dned_0> q cosa
-[03:45:52] [Server thread/INFO]: <PapayaModera> q cosa
-[03:46:04] [Server thread/INFO]: <LemZtarchild> portal
-[03:46:06] [Server thread/INFO]: <LemZtarchild> para ir
-[03:46:09] [Server thread/INFO]: <PapayaModera> drr
-[03:46:12] [Server thread/INFO]: <PapayaModera> siempre esta abierto
-[03:46:17] [Server thread/INFO]: PapayaModera has made the advancement [Stay Hydrated!]
-[03:46:21] [Server thread/INFO]: <LemZtarchild> no pues
-[03:46:25] [Server thread/INFO]: <LemZtarchild> osea si tienen portal
-[03:46:27] [Server thread/INFO]: <PapayaModera> si
-[03:46:28] [Server thread/INFO]: <LemZtarchild> pasen las coords del nether
-[03:46:41] [Server thread/INFO]: <LemZtarchild> en el nether
-[03:46:41] [Server thread/INFO]: <Dned_0> la casa esta cerca del spawn
-[03:47:05] [Server thread/INFO]: <LemZtarchild> ke
-[03:47:16] [Server thread/INFO]: <Dned_0> busca
-[03:47:21] [Server thread/INFO]: <Dned_0> un bosque con flores
-[03:47:25] [Server thread/INFO]: <Dned_0> cerca a un rio
-[03:47:30] [Server thread/INFO]: <Dned_0> o si encuentras una jungla
-[03:47:31] [Server thread/INFO]: <LemZtarchild> de lamansion haia donde me muevo
-[03:47:33] [Server thread/INFO]: <PapayaModera> cruzando hacia la playa con arena frente a la mansion
-[03:47:34] [Server thread/INFO]: <Dned_0> estas masomenos cerca
-[03:47:38] [Server thread/INFO]: <PapayaModera> ve todo hacia la izquierda
-[03:47:40] [Server thread/INFO]: <LemZtarchild> oko
-[03:47:46] [Server thread/INFO]: <Dned_0> no es cruzando un mar
-[03:47:52] [Server thread/INFO]: <Dned_0> es cruzando rios
-[03:47:56] [Server thread/INFO]: <PapayaModera> es metiendote al bosque
-[03:48:04] [Server thread/INFO]: <Dned_0> cuando veas bosques florales estas cerca
-[03:48:11] [Server thread/INFO]: <PapayaModera> but entras d trasmites y te guio
-[03:48:31] [Server thread/INFO]: <LemZtarchild> xd
-[03:48:36] [Server thread/INFO]: <LemZtarchild> entonces esas coords del inicio
-[03:48:40] [Server thread/INFO]: <LemZtarchild> que mandaron de los 180000
-[03:48:43] [Server thread/INFO]: <LemZtarchild> que son
-[03:48:50] [Server thread/INFO]: <PapayaModera> quisimos encontrar fortaleza
-[03:48:51] [Server thread/INFO]: <Dned_0> buscamos fortres
-[03:48:56] [Server thread/INFO]: <Dned_0> y no encontramos
-[03:48:59] [Server thread/INFO]: <LemZtarchild> xddddddddddd
-[03:49:13] [Server thread/INFO]: <LemZtarchild> ahh
-[03:49:15] [Server thread/INFO]: <LemZtarchild> es cierto
-[03:49:18] [Server thread/INFO]: <LemZtarchild> que en la barra de xp
-[03:49:22] [Server thread/INFO]: <LemZtarchild> puedo ver donde estan
-[03:49:26] [Server thread/INFO]: <LemZtarchild> ty 1.21.8
-[03:50:14] [Server thread/INFO]: <LemZtarchild> estan en la casa tons
-[03:50:19] [Server thread/INFO]: <Dned_0> no xd
-[03:50:29] [Server thread/INFO]: <LemZtarchild> nop ueden ir
-[03:50:32] [Server thread/INFO]: <LemZtarchild> ?
-[03:50:34] [Server thread/INFO]: <Dned_0> yo tengo tp
-[03:50:39] [Server thread/INFO]: <Dned_0> y puedo regresar
-[03:50:42] [Server thread/INFO]: <LemZtarchild> regres ap
-[03:50:45] [Server thread/INFO]: <PapayaModera> zzzzzzzzzzz
-[03:50:45] [Server thread/INFO]: <Dned_0> pero papaya no quiere ir por nether
-[03:50:47] [Server thread/INFO]: <PapayaModera> duerman
-[03:50:50] [Server thread/INFO]: Dned_0 lost connection: Disconnected
-[03:50:50] [Server thread/INFO]: Dned_0 left the game
-[03:50:54] [Server thread/INFO]: LemZtarchild lost connection: Disconnected
-[03:50:54] [Server thread/INFO]: LemZtarchild left the game
-[03:50:58] [User Authenticator #4/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[03:50:59] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:43232] logged in with entity id 10960 at (-147.80518586428647, 72.0, 425.08633544634193)
-[03:50:59] [Server thread/INFO]: LemZtarchild joined the game
-[03:51:04] [Server thread/INFO]: <LemZtarchild> escribe en la consola
-[03:51:06] [Server thread/INFO]: <LemZtarchild> el gamerule
-[03:51:19] [Server thread/INFO]: <LemZtarchild> de que el 1% de jugadores duerma y se haga de dia
-[03:51:29] [Server thread/INFO]: <PapayaModera> aver
-[03:51:32] [Server thread/INFO]: <LemZtarchild> pon
-[03:51:32] [User Authenticator #5/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
-[03:51:33] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:58232] logged in with entity id 11347 at (-3941.7177162147077, 72.0, 18689.624556902712)
-[03:51:33] [Server thread/INFO]: Dned_0 joined the game
-[03:51:34] [Server thread/INFO]: <LemZtarchild> en la consola
-[03:51:55] [Server thread/INFO]: <LemZtarchild> barra gamerule playerSleep o algo asi era
-[03:51:58] [Server thread/INFO]: <LemZtarchild> busca en goolgle
-[03:52:11] [Server thread/INFO]: <LemZtarchild> dned regresas?
-[03:52:15] [Server thread/INFO]: Gamerule playersSleepingPercentage is now set to: 1
-[03:52:18] [Server thread/INFO]: <Dned_0> tienes q tepearme
-[03:52:25] [Server thread/INFO]: <Dned_0> estoy explorando mientras
-[03:52:26] [Server thread/INFO]: <LemZtarchild> drrrrrrrrrrrrrrrrr
-[03:52:29] [Server thread/INFO]: <LemZtarchild> tons
-[03:52:33] [Server thread/INFO]: <Dned_0> activar la trampilla
-[03:52:33] [Server thread/INFO]: <PapayaModera> encuentra la casa
-[03:52:35] [Server thread/INFO]: <Dned_0> de la base
-[03:52:38] [Server thread/INFO]: <PapayaModera> fuerzalo a volver
-[03:52:43] [Server thread/INFO]: <PapayaModera> y hagan base de iron
-[03:52:48] [Server thread/INFO]: <PapayaModera> granja de iron*
-[03:53:00] [Server thread/INFO]: <Dned_0> igual preguntame antes de tepearme
-[03:53:06] [Server thread/INFO]: <LemZtarchild> hay bosque de abedul
-[03:53:11] [Server thread/INFO]: <Dned_0> con flores?
-[03:53:20] [Server thread/INFO]: <LemZtarchild> veo la jungla
-[03:53:33] [Server thread/INFO]: <LemZtarchild> no veo flores
-[03:53:34] [Server thread/INFO]: <Dned_0> ya a uno de los lados
-[03:53:39] [Server thread/INFO]: <Dned_0> deberia haber un ri
-[03:53:41] [Server thread/INFO]: <Dned_0> rio
-[03:53:43] [Server thread/INFO]: <PapayaModera> en que sentido ves la jg
-[03:53:44] [Server thread/INFO]: <Dned_0> q te lleva cerca
-[03:53:45] [Server thread/INFO]: <PapayaModera> norte?
-[03:53:49] [Server thread/INFO]: <Dned_0> al bosque
-[03:53:54] [Server thread/INFO]: <Dned_0> y habra un aldea
-[03:53:58] [Server thread/INFO]: <LemZtarchild> estoy entre la jungla y la mansion
-[03:54:07] [Server thread/INFO]: <LemZtarchild> mirandoo al norte
-[03:54:16] [Server thread/INFO]: <PapayaModera> ve tirando para el noreste
-[03:54:17] [Server thread/INFO]: <LemZtarchild> veo bambu tmb
-[03:54:20] [Server thread/INFO]: <PapayaModera> mas tirando para el norte
-[03:54:30] [Server thread/INFO]: <LemZtarchild> osea cruzo el mar
-[03:54:34] [Server thread/INFO]: <PapayaModera> no
-[03:54:36] [Server thread/INFO]: <Dned_0> no
-[03:54:40] [Server thread/INFO]: <Dned_0> solo rios
-[03:54:41] [Server thread/INFO]: <LemZtarchild> ya a ver
-[03:54:43] [Server thread/INFO]: <PapayaModera> a donde miras la jg
-[03:54:44] [Server thread/INFO]: <LemZtarchild> de la misma playa
-[03:54:49] [Server thread/INFO]: <LemZtarchild> de donde aprecimos
-[03:54:53] [Server thread/INFO]: <LemZtarchild> la mansion la tengo a mi derecha
-[03:54:56] [Server thread/INFO]: <LemZtarchild> estoy mirando hacia el mar
-[03:55:00] [Server thread/INFO]: <PapayaModera> drr
-[03:55:02] [Server thread/INFO]: <PapayaModera> no mires hacia el mar
-[03:55:04] [Server thread/INFO]: <LemZtarchild> la jungla tambien esta a la derecha y detras de l mansion
-[03:55:05] [Server thread/INFO]: <PapayaModera> mira hacia la jg
-[03:55:09] [Server thread/INFO]: <LemZtarchild> ya
-[03:55:15] [Server thread/INFO]: <PapayaModera> mirando hacia la jg
-[03:55:17] [Server thread/INFO]: <PapayaModera> ve defrente
-[03:55:21] [Server thread/INFO]: <PapayaModera> un poquito pa la derecha
-[03:55:34] [Server thread/INFO]: <LemZtarchild> raidearon mansion?
-[03:56:04] [Server thread/INFO]: <LemZtarchild> de hecho
-[03:56:06] [Server thread/INFO]: <LemZtarchild> la jg
-[03:56:13] [Server thread/INFO]: <LemZtarchild> asi como les he explicado mi pov
-[03:56:17] [Server thread/INFO]: <LemZtarchild> esta hacia el este
-[03:56:45] [Server thread/INFO]: <PapayaModera> todavia no raideamos mansion
-[03:56:58] [Server thread/INFO]: <PapayaModera> si la jg esta hacia el este ve hacia el sureste
-[03:57:53] [Server thread/INFO]: <LemZtarchild> encontre savana
-[03:58:00] [Server thread/INFO]: <PapayaModera> te pasaste supongo
-[03:58:09] [Server thread/INFO]: <PapayaModera> esta en una zona de cerro
-[03:58:12] [Server thread/INFO]: <PapayaModera> bosque floral
-[03:58:18] [Server thread/INFO]: <PapayaModera> no deberias cruzar ningun mar
-[03:58:23] [Server thread/INFO]: <PapayaModera> puro rio mi kongpa
-[03:59:32] [Server thread/INFO]: <PapayaModera> estos minighasts parecen fetos
-[03:59:38] [Server thread/INFO]: <LemZtarchild> son
-[03:59:54] [Server thread/INFO]: <PapayaModera> ojala en nuevas snapshots se puedan comer
-[03:59:56] [Server thread/INFO]: <PapayaModera> son bastante comunes
-[04:01:30] [Server thread/INFO]: <PapayaModera> zzz
-[04:01:35] [Server thread/INFO]: <LemZtarchild> pon el gamerule
-[04:01:38] [Server thread/INFO]: <LemZtarchild> cvr
-[04:01:58] [Server thread/INFO]: <LemZtarchild> estoy vieno
-[04:02:01] [Server thread/INFO]: <LemZtarchild> que ya legue al limite
-[04:02:05] [Server thread/INFO]: <LemZtarchild> del bosque
-[04:02:12] [Server thread/INFO]: <LemZtarchild> y sol oveo savana al frente
-[04:02:18] [Server thread/INFO]: <PapayaModera> esta antes de una savana
-[04:03:53] [Server thread/INFO]: <LemZtarchild> no se accuerdan ni maso las coord
-[04:04:03] [Server thread/INFO]: <PapayaModera> vuelve a la mansion
-[04:04:07] [Server thread/INFO]: <PapayaModera> voa hacer calculos mentales
-[04:04:13] [Server thread/INFO]: <LemZtarchild> estoy
-[04:04:24] [Server thread/INFO]: <PapayaModera> estando en la casa que hice de madera
-[04:04:27] [Server thread/INFO]: <PapayaModera> que tiene un tunel
-[04:04:28] [Server thread/INFO]: <LemZtarchild> ya
-[04:04:33] [Server thread/INFO]: <PapayaModera> pasame coords
-[04:04:46] [Server thread/INFO]: <LemZtarchild> 80 20
-[04:04:57] [Server thread/INFO]: <PapayaModera> si avanzas en direccion al portal arruinado
-[04:05:06] [Server thread/INFO]: <PapayaModera> q aumenta
-[04:05:06] [Server thread/INFO]: <LemZtarchild> ya
-[04:05:49] [Server thread/INFO]: <PapayaModera> q coords estas
-[04:05:54] [Server thread/INFO]: <LemZtarchild> llegaron a un prado?
-[04:05:57] [Server thread/INFO]: <PapayaModera> si
-[04:06:01] [Server thread/INFO]: <PapayaModera> en el prado
-[04:06:03] [Server thread/INFO]: <PapayaModera> sigue por ahi
-[04:06:03] [Server thread/INFO]: <LemZtarchild> aya estoy ahi
-[04:06:08] [Server thread/INFO]: <PapayaModera> hasta llegar a un cerro
-[04:06:10] [Server thread/INFO]: <PapayaModera> bosque floral
-[04:06:11] [Server thread/INFO]: LemZtarchild has made the advancement [Acquire Hardware]
-[04:07:21] [Server thread/INFO]: <LemZtarchild> llegaro a raidear un portal cerca ala savan
-[04:07:30] [Server thread/INFO]: <Dned_0> si
-[04:07:36] [Server thread/INFO]: <Dned_0> creo
-[04:07:39] [Server thread/INFO]: <Dned_0> cerca a un rio
-[04:07:39] [Server thread/INFO]: <LemZtarchild> ya estoy ahi
-[04:07:40] [Server thread/INFO]: <PapayaModera> cerca a savana
-[04:07:43] [Server thread/INFO]: <PapayaModera> no estoy seguro de eso kick
-[04:07:46] [Server thread/INFO]: <LemZtarchild> veo un bosque de girasoles
-[04:07:51] [Server thread/INFO]: <Dned_0> no esta en la savana
-[04:07:58] [Server thread/INFO]: <Dned_0> pero deberia estar al rededor
-[04:08:49] [Server thread/INFO]: Dned_0 fell from a high place
-[04:08:51] [Server thread/INFO]: <LemZtarchild> xd
-[04:08:53] [Server thread/INFO]: <PapayaModera> xd
-[04:08:54] [Server thread/INFO]: <LemZtarchild> xddddddddddddd
-[04:08:56] [Server thread/INFO]: <LemZtarchild> xd
-[04:08:57] [Server thread/INFO]: <LemZtarchild> xd
-[04:08:59] [Server thread/INFO]: <LemZtarchild> xd
-[04:09:03] [Server thread/INFO]: <LemZtarchild> reset
-[04:09:34] [Server thread/INFO]: <LemZtarchild> ya estoy e bosque fllorar
-[04:09:50] [Server thread/INFO]: <LemZtarchild> minimo llegare ala casa
-[04:10:08] [Server thread/INFO]: <LemZtarchild> llegue
-[04:10:12] [Server thread/INFO]: <LemZtarchild> si estaba cerca a la savana
-[04:10:17] [Server thread/INFO]: <LemZtarchild> recotramilstupidos
-[04:10:53] [Server thread/INFO]: <LemZtarchild> papaya
-[04:10:56] [Server thread/INFO]: <LemZtarchild> resetea ps
-[04:11:01] [Server thread/INFO]: <PapayaModera> waitea
-[04:11:04] [Server thread/INFO]: <PapayaModera> toy viendo algo
-[04:11:05] [Server thread/INFO]: <LemZtarchild> o sino sin harcor
-[04:11:09] [Server thread/INFO]: <LemZtarchild> muy defecable
-[04:11:20] [Server thread/INFO]: <LemZtarchild> tas viendo como revivir a ppa dned
-[04:11:21] [Server thread/INFO]: <LemZtarchild> xd
-[04:11:27] [Server thread/INFO]: <PapayaModera> toy viendo como ponerlo en survival
-[04:11:31] [Server thread/INFO]: <LemZtarchild> ah
-[04:11:37] [Server thread/INFO]: <LemZtarchild> en server porperties
-[04:12:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:12:24] [Server thread/INFO]: gamegagamggamemode spectator Dned_0<--[HERE]
+[05:00:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:00:31] [ServerMain/INFO]: Loaded 1407 recipes
+[05:00:31] [ServerMain/INFO]: Loaded 1520 advancements
+[05:00:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:00:31] [Server thread/INFO]: Loading properties
+[05:00:31] [Server thread/INFO]: Default game type: SURVIVAL
+[05:00:31] [Server thread/INFO]: Generating keypair
+[05:00:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:00:31] [Server thread/INFO]: Using epoll channel type
+[05:00:31] [Server thread/INFO]: Preparing level "world"
+[05:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:00:35] [Server thread/INFO]: Time elapsed: 4175 ms
+[05:00:35] [Server thread/INFO]: Done (4.482s)! For help, type "help"
+[05:01:14] [User Authenticator #1/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
+[05:01:15] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:45186] logged in with entity id 4 at (-3496.2525874153093, 64.0, 20537.751740090378)
+[05:01:15] [Server thread/INFO]: Dned_0 joined the game
+[05:01:49] [Server thread/INFO]: Unknown game mode: Survival
+[05:01:49] [Server thread/INFO]: ...e Survival Dned_0<--[HERE]
+[05:02:01] [Server thread/INFO]: Set Dned_0's game mode to Survival Mode
+[05:02:16] [User Authenticator #2/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
+[05:02:17] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:38172] logged in with entity id 523 at (-4077.699999988079, 79.0, 18511.37533613451)
+[05:02:17] [Server thread/INFO]: PapayaModera joined the game
