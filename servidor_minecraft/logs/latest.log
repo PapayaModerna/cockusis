@@ -1,77 +1,63 @@
-[13:31:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:31:13] [ServerMain/INFO]: Loaded 1407 recipes
-[13:31:13] [ServerMain/INFO]: Loaded 1520 advancements
-[13:31:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:31:14] [Server thread/INFO]: Loading properties
-[13:31:14] [Server thread/INFO]: Default game type: SURVIVAL
-[13:31:14] [Server thread/INFO]: Generating keypair
-[13:31:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:31:14] [Server thread/INFO]: Using epoll channel type
-[13:31:14] [Server thread/INFO]: Preparing level "world"
-[13:31:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:31:17] [Server thread/INFO]: Time elapsed: 2885 ms
-[13:31:17] [Server thread/INFO]: Done (3.209s)! For help, type "help"
-[13:32:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:33:19] [User Authenticator #1/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[13:33:21] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:52674] logged in with entity id 4 at (36.48533042743037, 66.79673560066871, 828.9373729625146)
-[13:33:21] [Server thread/INFO]: LemZtarchild joined the game
-[13:37:04] [Server thread/INFO]: LemZtarchild went up in flames
-[13:37:21] [Server thread/INFO]: Set LemZtarchild's game mode to Survival Mode
-[13:37:43] [Server thread/INFO]: Set LemZtarchild's game mode to Creative Mode
-[13:38:34] [Server thread/INFO]: Made LemZtarchild a server operator
-[13:38:38] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
-[13:39:37] [Server thread/INFO]: [LemZtarchild: Set own game mode to Creative Mode]
-[13:39:46] [Server thread/INFO]: LemZtarchild has completed the challenge [Cover Me in Debris]
-[13:40:17] [Server thread/INFO]: [LemZtarchild: Applied enchantment Power V to LemZtarchild's item]
-[13:40:23] [Server thread/INFO]: [LemZtarchild: Applied enchantment Infinity to LemZtarchild's item]
-[13:40:35] [Server thread/INFO]: [LemZtarchild: Applied enchantment Flame to LemZtarchild's item]
-[13:40:46] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:41:06] [Server thread/INFO]: [LemZtarchild: Applied enchantment Punch II to LemZtarchild's item]
-[13:41:44] [Server thread/INFO]: [LemZtarchild: Applied enchantment Sharpness V to LemZtarchild's item]
-[13:41:49] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:41:53] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:42:07] [Server thread/INFO]: [LemZtarchild: Applied enchantment Fire Aspect I to LemZtarchild's item]
-[13:42:30] [Server thread/INFO]: [LemZtarchild: Applied enchantment Looting I to LemZtarchild's item]
-[13:42:56] [Server thread/INFO]: [LemZtarchild: Applied enchantment Sweeping Edge III to LemZtarchild's item]
-[13:43:27] [Server thread/INFO]: [LemZtarchild: Applied enchantment Protection IV to LemZtarchild's item]
-[13:43:31] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:43:33] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:43:37] [Server thread/INFO]: [LemZtarchild: Applied enchantment Thorns III to LemZtarchild's item]
-[13:44:04] [Server thread/INFO]: [LemZtarchild: Applied enchantment Thorns III to LemZtarchild's item]
-[13:44:05] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:44:07] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:44:10] [Server thread/INFO]: [LemZtarchild: Applied enchantment Protection IV to LemZtarchild's item]
-[13:44:23] [Server thread/INFO]: Villager cuf['Villager'/1998, l='ServerLevel[world]', x=115.55, y=78.19, z=892.21] died, message: 'Villager was slain by Zombie'
-[13:44:29] [Server thread/INFO]: Villager cuf['Mason'/1997, l='ServerLevel[world]', x=115.17, y=78.19, z=892.91] died, message: 'Mason was slain by Zombie'
-[13:44:33] [Server thread/INFO]: [LemZtarchild: Applied enchantment Swift Sneak III to LemZtarchild's item]
-[13:44:46] [Server thread/INFO]: [LemZtarchild: Applied enchantment Protection IV to LemZtarchild's item]
-[13:44:50] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:44:53] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:45:04] [Server thread/INFO]: [LemZtarchild: Applied enchantment Thorns III to LemZtarchild's item]
-[13:45:14] [Server thread/INFO]: [LemZtarchild: Applied enchantment Depth Strider III to LemZtarchild's item]
-[13:45:22] [Server thread/INFO]: [LemZtarchild: Applied enchantment Soul Speed III to LemZtarchild's item]
-[13:45:47] [Server thread/INFO]: [LemZtarchild: Applied enchantment Feather Falling IV to LemZtarchild's item]
-[13:46:14] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:46:18] [Server thread/INFO]: [LemZtarchild: Applied enchantment Thorns III to LemZtarchild's item]
-[13:46:23] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:46:25] [Server thread/INFO]: [LemZtarchild: Applied enchantment Protection IV to LemZtarchild's item]
-[13:46:29] [Server thread/INFO]: [LemZtarchild: Applied enchantment Aqua Affinity to LemZtarchild's item]
-[13:46:34] [Server thread/INFO]: [LemZtarchild: Applied enchantment Respiration III to LemZtarchild's item]
-[13:47:58] [Server thread/INFO]: LemZtarchild has completed the challenge [Serious Dedication]
-[13:48:37] [Server thread/INFO]: [LemZtarchild: Applied enchantment Efficiency V to LemZtarchild's item]
-[13:48:40] [Server thread/INFO]: [LemZtarchild: Applied enchantment Silk Touch to LemZtarchild's item]
-[13:48:44] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:48:48] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:48:57] [Server thread/INFO]: [LemZtarchild: Applied enchantment Mending to LemZtarchild's item]
-[13:48:58] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
-[13:49:00] [Server thread/INFO]: [LemZtarchild: Applied enchantment Efficiency V to LemZtarchild's item]
-[13:49:03] [Server thread/INFO]: [LemZtarchild: Applied enchantment Fortune III to LemZtarchild's item]
-[13:53:31] [Server thread/INFO]: [LemZtarchild: Gave 300000000 experience levels to LemZtarchild]
-[14:01:21] [Server thread/INFO]: [LemZtarchild: Set own game mode to Spectator Mode]
-[14:01:43] [Server thread/INFO]: [LemZtarchild: Set own game mode to Creative Mode]
+[17:14:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:14:17] [ServerMain/INFO]: Loaded 1407 recipes
+[17:14:17] [ServerMain/INFO]: Loaded 1520 advancements
+[17:14:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:14:17] [Server thread/INFO]: Loading properties
+[17:14:17] [Server thread/INFO]: Default game type: SURVIVAL
+[17:14:17] [Server thread/INFO]: Generating keypair
+[17:14:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:14:18] [Server thread/INFO]: Using epoll channel type
+[17:14:18] [Server thread/INFO]: Preparing level "world"
+[17:14:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:14:21] [Server thread/INFO]: Time elapsed: 2937 ms
+[17:14:21] [Server thread/INFO]: Done (3.359s)! For help, type "help"
+[17:15:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:18:18] [User Authenticator #1/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
+[17:18:19] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:57384] logged in with entity id 4 at (75.97170451710859, 71.0, 190.95479486613482)
+[17:18:19] [Server thread/INFO]: diegoaev223_ joined the game
+[17:18:20] [User Authenticator #2/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
+[17:18:22] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:57390] logged in with entity id 101 at (89.0063202536559, -31.0, 933.6999999880791)
+[17:18:22] [Server thread/INFO]: LemZtarchild joined the game
+[17:18:26] [Server thread/INFO]: <diegoaev223_> ola
+[17:18:29] [Server thread/INFO]: <LemZtarchild> ola
+[17:18:34] [Server thread/INFO]: <diegoaev223_> sigue en extremo
+[17:18:43] [Server thread/INFO]: <LemZtarchild> see no supieron como arreglarlo
+[17:18:51] [Server thread/INFO]: <diegoaev223_> donde andas monito
+[17:18:56] [Server thread/INFO]: <LemZtarchild> minando
+[17:18:58] [Server thread/INFO]: <LemZtarchild> ahivoi
+[17:19:04] [Server thread/INFO]: <LemZtarchild> de ehcho
+[17:19:05] [Server thread/INFO]: <diegoaev223_> oka
+[17:19:05] [Server thread/INFO]: <LemZtarchild> ven
+[17:19:08] [Server thread/INFO]: <LemZtarchild> a la base
+[17:19:13] [Server thread/INFO]: <diegoaev223_> estoy
+[17:19:15] [Server thread/INFO]: <LemZtarchild> 90 1000
+[17:19:19] [Server thread/INFO]: <LemZtarchild> ah si
+[17:19:20] [Server thread/INFO]: <LemZtarchild> xd
+[17:19:20] [Server thread/INFO]: <diegoaev223_> tienes cama?
+[17:19:32] [Server thread/INFO]: <LemZtarchild> non pero dale ala cama que esta hia para que vayas guardando spawn
+[17:19:43] [Server thread/INFO]: <diegoaev223_> estoyt en tu intento de casa
+[17:19:51] [Server thread/INFO]: <LemZtarchild> ah
+[17:19:55] [Server thread/INFO]: <LemZtarchild> yo hablaba de la otra base
+[17:19:56] [Server thread/INFO]: <LemZtarchild> ven
+[17:20:00] [Server thread/INFO]: <LemZtarchild> 90 1000
+[17:20:06] [Server thread/INFO]: <diegoaev223_> hay muchos mounstros
+[17:20:11] [Server thread/INFO]: <diegoaev223_> pera q se haga de dia
+[17:20:19] [Server thread/INFO]: <LemZtarchild> mejor te tepeo
+[17:20:24] [Server thread/INFO]: <diegoaev223_> tmbn
+[17:20:35] [Server thread/INFO]: [LemZtarchild: Teleported diegoaev223_ to LemZtarchild]
+[17:20:43] [Server thread/INFO]: <LemZtarchild> xd
+[17:20:48] [Server thread/INFO]: <diegoaev223_> como md tienes netherite
+[17:20:54] [Server thread/INFO]: <LemZtarchild> porque soy muy pro
+[17:21:02] [Server thread/INFO]: <diegoaev223_> pero el server empezo ayer
+[17:21:27] [Server thread/INFO]: <diegoaev223_> wtf
+[17:21:32] [Server thread/INFO]: <LemZtarchild> soy muy pro
+[17:21:59] [Server thread/INFO]: <diegoaev223_> weres hacker
+[17:23:07] [Server thread/INFO]: <LemZtarchild> ya estoy en la base
+[17:23:23] [Server thread/INFO]: LemZtarchild has made the advancement [Sweet Dreams]
+[17:23:46] [Server thread/INFO]: <diegoaev223_> q mrd
