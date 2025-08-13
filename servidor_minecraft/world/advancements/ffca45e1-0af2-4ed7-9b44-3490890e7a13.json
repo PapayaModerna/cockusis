@@ -380,6 +380,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-08-12 22:23:21 +0000",
+      "cooked_beef": "2025-08-13 17:40:06 +0000",
       "cooked_salmon": "2025-08-12 19:04:37 +0000"
     },
     "done": false
@@ -1563,6 +1564,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-13 17:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-13 17:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-13 17:43:44 +0000"
     },
     "done": true
   },
