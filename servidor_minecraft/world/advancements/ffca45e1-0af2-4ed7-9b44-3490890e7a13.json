@@ -12,7 +12,8 @@
       "minecraft:river": "2025-08-12 19:01:29 +0000",
       "minecraft:birch_forest": "2025-08-12 18:55:33 +0000",
       "minecraft:stony_shore": "2025-08-12 18:59:08 +0000",
-      "minecraft:lush_caves": "2025-08-12 21:48:22 +0000"
+      "minecraft:lush_caves": "2025-08-12 21:48:22 +0000",
+      "minecraft:plains": "2025-08-13 17:32:29 +0000"
     },
     "done": false
   },
@@ -1505,12 +1506,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-13 17:23:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-08-13 17:22:42 +0000"
@@ -1535,12 +1530,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-13 17:23:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-13 17:22:42 +0000"
@@ -1550,6 +1539,30 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-13 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-13 17:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-13 17:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-13 17:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-13 17:24:34 +0000"
     },
     "done": true
   },
