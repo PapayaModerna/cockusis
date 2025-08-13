@@ -1,45 +1,35 @@
-[05:00:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:00:31] [ServerMain/INFO]: Loaded 1407 recipes
-[05:00:31] [ServerMain/INFO]: Loaded 1520 advancements
-[05:00:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[05:00:31] [Server thread/INFO]: Loading properties
-[05:00:31] [Server thread/INFO]: Default game type: SURVIVAL
-[05:00:31] [Server thread/INFO]: Generating keypair
-[05:00:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:00:31] [Server thread/INFO]: Using epoll channel type
-[05:00:31] [Server thread/INFO]: Preparing level "world"
-[05:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:00:35] [Server thread/INFO]: Time elapsed: 4175 ms
-[05:00:35] [Server thread/INFO]: Done (4.482s)! For help, type "help"
-[05:01:14] [User Authenticator #1/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
-[05:01:15] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:45186] logged in with entity id 4 at (-3496.2525874153093, 64.0, 20537.751740090378)
-[05:01:15] [Server thread/INFO]: Dned_0 joined the game
-[05:01:49] [Server thread/INFO]: Unknown game mode: Survival
-[05:01:49] [Server thread/INFO]: ...e Survival Dned_0<--[HERE]
-[05:02:01] [Server thread/INFO]: Set Dned_0's game mode to Survival Mode
-[05:02:16] [User Authenticator #2/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
-[05:02:17] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:38172] logged in with entity id 523 at (-4077.699999988079, 79.0, 18511.37533613451)
-[05:02:17] [Server thread/INFO]: PapayaModera joined the game
-[05:17:34] [Server thread/INFO]: Dned_0 has made the advancement [What a Deal!]
-[05:19:12] [Server thread/INFO]: Dned_0 has made the advancement [Cover Me with Diamonds]
-[05:40:11] [Server thread/INFO]: Dned_0 lost connection: Disconnected
-[05:40:11] [Server thread/INFO]: Dned_0 left the game
-[05:42:27] [User Authenticator #3/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
-[05:42:28] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:43482] logged in with entity id 15463 at (27.30000001192093, 78.875, 549.6999999880791)
-[05:42:28] [Server thread/INFO]: Dned_0 joined the game
-[05:42:33] [Server thread/INFO]: Dned_0 lost connection: Disconnected
-[05:42:33] [Server thread/INFO]: Dned_0 left the game
-[05:47:51] [User Authenticator #4/INFO]: UUID of player Dned_0 is 2fcf9d37-58e7-43bc-8e91-e17bc5270bfb
-[05:47:52] [Server thread/INFO]: Dned_0[/[0:0:0:0:0:0:0:1]:52476] logged in with entity id 16531 at (27.30000001192093, 78.875, 549.6999999880791)
-[05:47:52] [Server thread/INFO]: Dned_0 joined the game
-[05:47:56] [Server thread/INFO]: Dned_0 lost connection: Disconnected
-[05:47:56] [Server thread/INFO]: Dned_0 left the game
+[13:31:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:31:13] [ServerMain/INFO]: Loaded 1407 recipes
+[13:31:13] [ServerMain/INFO]: Loaded 1520 advancements
+[13:31:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:31:14] [Server thread/INFO]: Loading properties
+[13:31:14] [Server thread/INFO]: Default game type: SURVIVAL
+[13:31:14] [Server thread/INFO]: Generating keypair
+[13:31:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:31:14] [Server thread/INFO]: Using epoll channel type
+[13:31:14] [Server thread/INFO]: Preparing level "world"
+[13:31:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:31:17] [Server thread/INFO]: Time elapsed: 2885 ms
+[13:31:17] [Server thread/INFO]: Done (3.209s)! For help, type "help"
+[13:32:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:33:19] [User Authenticator #1/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
+[13:33:21] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:52674] logged in with entity id 4 at (36.48533042743037, 66.79673560066871, 828.9373729625146)
+[13:33:21] [Server thread/INFO]: LemZtarchild joined the game
+[13:37:04] [Server thread/INFO]: LemZtarchild went up in flames
+[13:37:21] [Server thread/INFO]: Set LemZtarchild's game mode to Survival Mode
+[13:37:43] [Server thread/INFO]: Set LemZtarchild's game mode to Creative Mode
+[13:38:34] [Server thread/INFO]: Made LemZtarchild a server operator
+[13:38:38] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
+[13:39:37] [Server thread/INFO]: [LemZtarchild: Set own game mode to Creative Mode]
+[13:39:46] [Server thread/INFO]: LemZtarchild has completed the challenge [Cover Me in Debris]
+[13:40:17] [Server thread/INFO]: [LemZtarchild: Applied enchantment Power V to LemZtarchild's item]
+[13:40:23] [Server thread/INFO]: [LemZtarchild: Applied enchantment Infinity to LemZtarchild's item]
+[13:40:35] [Server thread/INFO]: [LemZtarchild: Applied enchantment Flame to LemZtarchild's item]
+[13:40:46] [Server thread/INFO]: [LemZtarchild: Applied enchantment Unbreaking III to LemZtarchild's item]
+[13:41:06] [Server thread/INFO]: [LemZtarchild: Applied enchantment Punch II to LemZtarchild's item]
