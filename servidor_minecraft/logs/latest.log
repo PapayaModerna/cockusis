@@ -1,166 +1,23 @@
-[17:14:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:14:17] [ServerMain/INFO]: Loaded 1407 recipes
-[17:14:17] [ServerMain/INFO]: Loaded 1520 advancements
-[17:14:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:14:17] [Server thread/INFO]: Loading properties
-[17:14:17] [Server thread/INFO]: Default game type: SURVIVAL
-[17:14:17] [Server thread/INFO]: Generating keypair
-[17:14:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:14:18] [Server thread/INFO]: Using epoll channel type
-[17:14:18] [Server thread/INFO]: Preparing level "world"
-[17:14:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:21] [Server thread/INFO]: Time elapsed: 2937 ms
-[17:14:21] [Server thread/INFO]: Done (3.359s)! For help, type "help"
-[17:15:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:18:18] [User Authenticator #1/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
-[17:18:19] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:57384] logged in with entity id 4 at (75.97170451710859, 71.0, 190.95479486613482)
-[17:18:19] [Server thread/INFO]: diegoaev223_ joined the game
-[17:18:20] [User Authenticator #2/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[17:18:22] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:57390] logged in with entity id 101 at (89.0063202536559, -31.0, 933.6999999880791)
-[17:18:22] [Server thread/INFO]: LemZtarchild joined the game
-[17:18:26] [Server thread/INFO]: <diegoaev223_> ola
-[17:18:29] [Server thread/INFO]: <LemZtarchild> ola
-[17:18:34] [Server thread/INFO]: <diegoaev223_> sigue en extremo
-[17:18:43] [Server thread/INFO]: <LemZtarchild> see no supieron como arreglarlo
-[17:18:51] [Server thread/INFO]: <diegoaev223_> donde andas monito
-[17:18:56] [Server thread/INFO]: <LemZtarchild> minando
-[17:18:58] [Server thread/INFO]: <LemZtarchild> ahivoi
-[17:19:04] [Server thread/INFO]: <LemZtarchild> de ehcho
-[17:19:05] [Server thread/INFO]: <diegoaev223_> oka
-[17:19:05] [Server thread/INFO]: <LemZtarchild> ven
-[17:19:08] [Server thread/INFO]: <LemZtarchild> a la base
-[17:19:13] [Server thread/INFO]: <diegoaev223_> estoy
-[17:19:15] [Server thread/INFO]: <LemZtarchild> 90 1000
-[17:19:19] [Server thread/INFO]: <LemZtarchild> ah si
-[17:19:20] [Server thread/INFO]: <LemZtarchild> xd
-[17:19:20] [Server thread/INFO]: <diegoaev223_> tienes cama?
-[17:19:32] [Server thread/INFO]: <LemZtarchild> non pero dale ala cama que esta hia para que vayas guardando spawn
-[17:19:43] [Server thread/INFO]: <diegoaev223_> estoyt en tu intento de casa
-[17:19:51] [Server thread/INFO]: <LemZtarchild> ah
-[17:19:55] [Server thread/INFO]: <LemZtarchild> yo hablaba de la otra base
-[17:19:56] [Server thread/INFO]: <LemZtarchild> ven
-[17:20:00] [Server thread/INFO]: <LemZtarchild> 90 1000
-[17:20:06] [Server thread/INFO]: <diegoaev223_> hay muchos mounstros
-[17:20:11] [Server thread/INFO]: <diegoaev223_> pera q se haga de dia
-[17:20:19] [Server thread/INFO]: <LemZtarchild> mejor te tepeo
-[17:20:24] [Server thread/INFO]: <diegoaev223_> tmbn
-[17:20:35] [Server thread/INFO]: [LemZtarchild: Teleported diegoaev223_ to LemZtarchild]
-[17:20:43] [Server thread/INFO]: <LemZtarchild> xd
-[17:20:48] [Server thread/INFO]: <diegoaev223_> como md tienes netherite
-[17:20:54] [Server thread/INFO]: <LemZtarchild> porque soy muy pro
-[17:21:02] [Server thread/INFO]: <diegoaev223_> pero el server empezo ayer
-[17:21:27] [Server thread/INFO]: <diegoaev223_> wtf
-[17:21:32] [Server thread/INFO]: <LemZtarchild> soy muy pro
-[17:21:59] [Server thread/INFO]: <diegoaev223_> weres hacker
-[17:23:07] [Server thread/INFO]: <LemZtarchild> ya estoy en la base
-[17:23:23] [Server thread/INFO]: LemZtarchild has made the advancement [Sweet Dreams]
-[17:23:46] [Server thread/INFO]: <diegoaev223_> q mrd
-[17:24:25] [Server thread/INFO]: <diegoaev223_> arcilla x esmeralda go?
-[17:24:29] [Server thread/INFO]: <LemZtarchild> go
-[17:24:34] [Server thread/INFO]: diegoaev223_ has made the advancement [What a Deal!]
-[17:24:37] [Server thread/INFO]: <LemZtarchild> bueno
-[17:24:41] [Server thread/INFO]: <LemZtarchild> es mucha ventaj
-[17:24:43] [Server thread/INFO]: <LemZtarchild> asi que
-[17:24:47] [Server thread/INFO]: <LemZtarchild> me quitaretodo lo que tengo
-[17:24:58] [Server thread/INFO]: <diegoaev223_> q es eso
-[17:25:04] [Server thread/INFO]: <LemZtarchild> dale clic a la cama
-[17:25:22] [Server thread/INFO]: <LemZtarchild> ven pe mono
-[17:25:26] [Server thread/INFO]: <diegoaev223_> nono
-[17:25:32] [Server thread/INFO]: <diegoaev223_> q mrd
-[17:26:08] [Server thread/INFO]: <diegoaev223_> como tienes bloques de diamante
-[17:26:15] [Server thread/INFO]: <LemZtarchild> ven
-[17:26:17] [Server thread/INFO]: <LemZtarchild> pa que pruebes
-[17:26:18] [Server thread/INFO]: <LemZtarchild> el poder
-[17:26:20] [Server thread/INFO]: diegoaev223_ lost connection: Timed out
-[17:26:20] [Server thread/INFO]: diegoaev223_ left the game
-[17:26:20] [Server thread/WARN]: handleDisconnection() called twice
-[17:26:21] [Server thread/INFO]: <LemZtarchild> luego te lo doy
-[17:26:31] [User Authenticator #3/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
-[17:26:32] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:56672] logged in with entity id 2266 at (131.69999998807907, 81.0, 902.278117466265)
-[17:26:32] [Server thread/INFO]: diegoaev223_ joined the game
-[17:27:06] [Server thread/INFO]: <diegoaev223_> ya se q haras}
-[17:27:21] [Server thread/INFO]: <diegoaev223_> cvomo tienes tantas cosa
-[17:27:28] [Server thread/INFO]: <LemZtarchild> porque mepusieron creativo
-[17:27:33] [Server thread/INFO]: <LemZtarchild> pero ya me voy a quitar las vainas
-[17:27:58] [Server thread/INFO]: diegoaev223_ was smashed by LemZtarchild
-[17:28:02] [Server thread/INFO]: diegoaev223_ lost connection: Timed out
-[17:28:02] [Server thread/INFO]: diegoaev223_ left the game
-[17:28:03] [Server thread/INFO]: <LemZtarchild> xd
-[17:28:22] [Server thread/INFO]: [LemZtarchild: Set own game mode to Creative Mode]
-[17:28:31] [User Authenticator #4/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
-[17:28:31] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:58782] logged in with entity id 2675 at (149.574737143898, 87.0, 889.7856458685332)
-[17:28:31] [Server thread/INFO]: diegoaev223_ joined the game
-[17:28:34] [Server thread/INFO]: diegoaev223_ lost connection: Disconnected
-[17:28:34] [Server thread/INFO]: diegoaev223_ left the game
-[17:29:08] [User Authenticator #5/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
-[17:29:09] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:50950] logged in with entity id 2835 at (149.574737143898, 87.0, 889.7856458685332)
-[17:29:09] [Server thread/INFO]: diegoaev223_ joined the game
-[17:29:15] [Server thread/INFO]: diegoaev223_ lost connection: Disconnected
-[17:29:15] [Server thread/INFO]: diegoaev223_ left the game
-[17:29:27] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
-[17:29:32] [Server thread/INFO]: LemZtarchild has made the advancement [Diamonds!]
-[17:29:36] [Server thread/INFO]: LemZtarchild has made the advancement [Suit Up]
-[17:29:36] [Server thread/INFO]: LemZtarchild has made the advancement [Isn't It Iron Pick]
-[17:30:03] [User Authenticator #6/INFO]: UUID of player diegoaev223_ is ffca45e1-0af2-4ed7-9b44-3490890e7a13
-[17:30:03] [Server thread/INFO]: diegoaev223_[/[0:0:0:0:0:0:0:1]:56598] logged in with entity id 3081 at (125.5, 78.0, 876.5)
-[17:30:03] [Server thread/INFO]: diegoaev223_ joined the game
-[17:30:06] [Server thread/INFO]: [LemZtarchild: Set diegoaev223_'s game mode to Creative Mode]
-[17:30:09] [Server thread/INFO]: LemZtarchild was slain by diegoaev223_
-[17:30:16] [Server thread/INFO]: [LemZtarchild: Set own game mode to Creative Mode]
-[17:30:38] [Server thread/INFO]: <diegoaev223_> wtf
-[17:30:40] [Server thread/INFO]: [LemZtarchild: Set diegoaev223_'s game mode to Survival Mode]
-[17:31:06] [Server thread/INFO]: <LemZtarchild> yata
-[17:31:08] [Server thread/INFO]: LemZtarchild lost connection: Disconnected
-[17:31:08] [Server thread/INFO]: LemZtarchild left the game
-[17:32:31] [User Authenticator #7/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[17:32:32] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:41760] logged in with entity id 3616 at (110.74531862386561, 78.0, 874.9964583450155)
-[17:32:32] [Server thread/INFO]: LemZtarchild joined the game
-[17:32:43] [Server thread/INFO]: <LemZtarchild> cuantas tenias
-[17:32:48] [Server thread/INFO]: <diegoaev223_> mis esmeraldas
-[17:32:50] [Server thread/INFO]: <diegoaev223_> 6
-[17:34:30] [Server thread/INFO]: <diegoaev223_> wtf
-[17:34:32] [Server thread/INFO]: <LemZtarchild> que
-[17:34:34] [Server thread/INFO]: <LemZtarchild> xd
-[17:34:41] [Server thread/INFO]: <LemZtarchild> sep usieron a cantar
-[17:34:45] [Server thread/INFO]: <LemZtarchild> o es el disco
-[17:34:54] [Server thread/INFO]: LemZtarchild lost connection: Disconnected
-[17:34:54] [Server thread/INFO]: LemZtarchild left the game
-[17:35:52] [User Authenticator #8/INFO]: UUID of player LemZtarchild is 6077d8b5-e64c-4b44-b89f-3db64c8d156b
-[17:35:53] [Server thread/INFO]: LemZtarchild[/[0:0:0:0:0:0:0:1]:56264] logged in with entity id 4089 at (117.14283095886987, 78.0, 881.9192808006504)
-[17:35:53] [Server thread/INFO]: LemZtarchild joined the game
-[17:36:01] [Server thread/INFO]: <diegoaev223_> como kle hiciste
-[17:36:06] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
-[17:36:09] [Server thread/INFO]: <LemZtarchild> que
-[17:36:15] [Server thread/INFO]: <diegoaev223_> ta q canta
-[17:37:15] [Server thread/INFO]: <LemZtarchild> xd
-[17:37:20] [Server thread/INFO]: <diegoaev223_> ahora q
-[17:37:27] [Server thread/INFO]: <LemZtarchild> wa kagar
-[17:37:54] [Server thread/INFO]: <LemZtarchild> ahora puedes pasar la noche con que uno nomas este durmiendo
-[17:37:56] [Server thread/INFO]: <LemZtarchild> mas bien
-[17:38:00] [Server thread/INFO]: <diegoaev223_> k
-[17:38:03] [Server thread/INFO]: <LemZtarchild> crees que pueadas hacer la granja de hierro?
-[17:38:07] [Server thread/INFO]: <LemZtarchild> es facil
-[17:38:09] [Server thread/INFO]: <diegoaev223_> ns como es eso
-[17:38:13] [Server thread/INFO]: <LemZtarchild> busca el tuto
-[17:38:15] [Server thread/INFO]: <LemZtarchild> en yt
-[17:38:25] [Server thread/INFO]: <LemZtarchild> el canal es de ISLAMINECRAFT
-[17:38:32] [Server thread/INFO]: <LemZtarchild> pones granja de hierro 1.16.5
-[17:38:35] [Server thread/INFO]: <LemZtarchild> y te sale
-[17:38:44] [Server thread/INFO]: <LemZtarchild> la haces?
-[17:38:48] [Server thread/INFO]: <diegoaev223_> ñose
-[17:39:53] [Server thread/INFO]: LemZtarchild was slain by diegoaev223_
-[17:40:01] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
-[17:40:37] [Server thread/INFO]: LemZtarchild was slain by diegoaev223_
-[17:40:40] [Server thread/INFO]: [LemZtarchild: Set own game mode to Survival Mode]
-[17:41:00] [Server thread/INFO]: <LemZtarchild> vuelvo
-[17:41:01] [Server thread/INFO]: LemZtarchild lost connection: Disconnected
-[17:41:01] [Server thread/INFO]: LemZtarchild left the game
-[17:45:09] [Server thread/INFO]: diegoaev223_ lost connection: Disconnected
-[17:45:09] [Server thread/INFO]: diegoaev223_ left the game
-[17:46:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:52:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:52:03] [ServerMain/INFO]: Loaded 1407 recipes
+[20:52:03] [ServerMain/INFO]: Loaded 1520 advancements
+[20:52:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:52:03] [Server thread/INFO]: Loading properties
+[20:52:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:52:03] [Server thread/INFO]: Generating keypair
+[20:52:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:52:03] [Server thread/INFO]: Using epoll channel type
+[20:52:03] [Server thread/INFO]: Preparing level "world"
+[20:52:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:52:06] [Server thread/INFO]: Time elapsed: 2565 ms
+[20:52:06] [Server thread/INFO]: Done (2.903s)! For help, type "help"
+[20:52:57] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
+[20:52:59] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:51178] logged in with entity id 5 at (113.74724797062372, 85.5625, 884.6955542236456)
+[20:52:59] [Server thread/INFO]: PapayaModera joined the game
+[21:05:57] [Server thread/INFO]: PapayaModera has made the advancement [Diamonds!]
