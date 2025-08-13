@@ -27,6 +27,7 @@
       "minecraft:meadow": "2025-08-13 04:03:23 +0000",
       "minecraft:birch_forest": "2025-08-12 19:18:41 +0000",
       "minecraft:snowy_beach": "2025-08-13 03:58:33 +0000",
+      "minecraft:savanna": "2025-08-13 23:49:51 +0000",
       "minecraft:plains": "2025-08-12 19:19:49 +0000",
       "minecraft:pale_garden": "2025-08-13 04:03:45 +0000"
     },
@@ -2640,6 +2641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-08-13 23:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-13 23:35:15 +0000"
@@ -2751,6 +2758,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-08-13 23:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-08-13 23:47:15 +0000"
     },
     "done": true
   },
