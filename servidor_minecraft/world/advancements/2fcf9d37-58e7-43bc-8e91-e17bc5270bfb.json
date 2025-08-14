@@ -1201,8 +1201,10 @@
       "minecraft:skeleton": "2025-08-12 21:03:37 +0000",
       "minecraft:piglin": "2025-08-12 22:33:41 +0000",
       "minecraft:zombified_piglin": "2025-08-13 23:24:37 +0000",
+      "minecraft:enderman": "2025-08-14 00:08:57 +0000",
       "minecraft:magma_cube": "2025-08-13 21:52:31 +0000",
       "minecraft:wither_skeleton": "2025-08-13 21:59:25 +0000",
+      "minecraft:zombie": "2025-08-14 00:10:11 +0000",
       "minecraft:ghast": "2025-08-13 21:58:40 +0000"
     },
     "done": false
