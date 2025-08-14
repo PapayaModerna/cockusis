@@ -8,26 +8,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-08-12 23:11:39 +0000",
+      "minecraft:forest": "2025-08-12 19:19:26 +0000",
+      "minecraft:taiga": "2025-08-13 03:55:35 +0000",
+      "minecraft:frozen_river": "2025-08-13 03:42:23 +0000",
+      "minecraft:ocean": "2025-08-13 04:00:57 +0000",
+      "minecraft:sunflower_plains": "2025-08-12 19:28:07 +0000",
+      "minecraft:birch_forest": "2025-08-12 19:18:41 +0000",
+      "minecraft:snowy_beach": "2025-08-13 03:58:33 +0000",
       "minecraft:flower_forest": "2025-08-12 19:29:05 +0000",
       "minecraft:savanna_plateau": "2025-08-14 00:18:59 +0000",
       "minecraft:beach": "2025-08-12 19:25:45 +0000",
       "minecraft:dark_forest": "2025-08-12 19:10:57 +0000",
-      "minecraft:forest": "2025-08-12 19:19:26 +0000",
-      "minecraft:taiga": "2025-08-13 03:55:35 +0000",
       "minecraft:sparse_jungle": "2025-08-12 19:23:00 +0000",
       "minecraft:river": "2025-08-12 19:18:53 +0000",
       "minecraft:stony_shore": "2025-08-12 19:11:07 +0000",
       "minecraft:snowy_plains": "2025-08-13 03:42:32 +0000",
       "minecraft:snowy_taiga": "2025-08-13 03:52:50 +0000",
+      "minecraft:dripstone_caves": "2025-08-14 00:23:05 +0000",
       "minecraft:frozen_peaks": "2025-08-13 03:53:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-12 19:18:58 +0000",
-      "minecraft:frozen_river": "2025-08-13 03:42:23 +0000",
-      "minecraft:ocean": "2025-08-13 04:00:57 +0000",
-      "minecraft:sunflower_plains": "2025-08-12 19:28:07 +0000",
       "minecraft:grove": "2025-08-13 03:53:07 +0000",
       "minecraft:meadow": "2025-08-13 04:03:23 +0000",
-      "minecraft:birch_forest": "2025-08-12 19:18:41 +0000",
-      "minecraft:snowy_beach": "2025-08-13 03:58:33 +0000",
       "minecraft:savanna": "2025-08-13 23:49:51 +0000",
       "minecraft:plains": "2025-08-12 19:19:49 +0000",
       "minecraft:pale_garden": "2025-08-13 04:03:45 +0000"
@@ -2632,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/white_bundle": {
     "criteria": {
       "has_white_dye": "2025-08-13 23:35:15 +0000"
@@ -2656,6 +2663,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-13 23:53:59 +0000"
@@ -2671,6 +2696,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-13 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-14 00:22:49 +0000"
     },
     "done": true
   },
@@ -2734,6 +2765,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-08-13 23:35:15 +0000"
@@ -2764,9 +2807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-13 23:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
     },
     "done": true
   },
@@ -2785,6 +2840,18 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-08-13 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-14 00:22:49 +0000"
     },
     "done": true
   },
