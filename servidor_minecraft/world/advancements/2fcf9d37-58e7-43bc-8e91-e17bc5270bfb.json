@@ -2653,6 +2653,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-13 23:30:19 +0000"
@@ -2662,6 +2674,12 @@
   "minecraft:recipes/decorations/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-13 23:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
     },
     "done": true
   },
@@ -2686,6 +2704,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-08-13 23:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
     },
     "done": true
   },
@@ -2737,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-13 23:35:15 +0000"
@@ -2761,9 +2791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-08-13 23:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-13 23:53:59 +0000"
     },
     "done": true
   },
