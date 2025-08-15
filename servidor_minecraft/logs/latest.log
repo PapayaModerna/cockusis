@@ -1,38 +1,29 @@
-[00:05:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:05:20] [ServerMain/INFO]: Loaded 1407 recipes
-[00:05:20] [ServerMain/INFO]: Loaded 1520 advancements
-[00:05:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:05:20] [Server thread/INFO]: Loading properties
-[00:05:20] [Server thread/INFO]: Default game type: SURVIVAL
-[00:05:20] [Server thread/INFO]: Generating keypair
-[00:05:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:05:20] [Server thread/INFO]: Using epoll channel type
-[00:05:20] [Server thread/INFO]: Preparing level "world"
-[00:05:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:05:23] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[00:05:23] [Server thread/INFO]: Time elapsed: 3089 ms
-[00:05:23] [Server thread/INFO]: Done (3.324s)! For help, type "help"
-[00:06:22] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
-[00:06:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:06:24] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:48258] logged in with entity id 5 at (97.30000001192093, -10.0, 929.8173651314971)
-[00:06:24] [Server thread/INFO]: PapayaModera joined the game
-[00:20:35] [Server thread/INFO]: Villager cuf['Villager'/71, l='ServerLevel[world]', x=110.70, y=78.00, z=883.30] died, message: 'Villager was squished too much'
-[00:33:26] [Server thread/INFO]: <PapayaModera> 95 928
-[00:38:41] [Server thread/INFO]: Villager cuf['Villager'/69, l='ServerLevel[world]', x=110.30, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[00:45:59] [Server thread/INFO]: Villager cuf['Villager'/75, l='ServerLevel[world]', x=110.30, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[00:58:52] [Server thread/INFO]: <PapayaModera> 93 928
-[01:05:42] [Server thread/INFO]: Villager cuf['Villager'/63, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:12:29] [Server thread/INFO]: Villager cuf['Villager'/59, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:16:46] [Server thread/INFO]: Villager cuf['Villager'/58, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:23:32] [Server thread/INFO]: Villager cuf['Villager'/66, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:23:47] [Server thread/INFO]: Villager cuf['Villager'/53, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:29:37] [Server thread/INFO]: Villager cuf['Villager'/65, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
-[01:30:07] [Server thread/INFO]: PapayaModera has made the advancement [The Parrots and the Bats]
-[01:34:48] [Server thread/INFO]: <PapayaModera> ASD
-[01:35:09] [Server thread/INFO]: Villager cuf['Villager'/64, l='ServerLevel[world]', x=110.70, y=78.00, z=883.70] died, message: 'Villager was squished too much'
+[23:07:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:07:12] [ServerMain/INFO]: Loaded 1407 recipes
+[23:07:12] [ServerMain/INFO]: Loaded 1520 advancements
+[23:07:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:07:12] [Server thread/INFO]: Loading properties
+[23:07:12] [Server thread/INFO]: Default game type: SURVIVAL
+[23:07:12] [Server thread/INFO]: Generating keypair
+[23:07:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:07:12] [Server thread/INFO]: Using epoll channel type
+[23:07:12] [Server thread/INFO]: Preparing level "world"
+[23:07:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[23:07:16] [Server thread/INFO]: Time elapsed: 3541 ms
+[23:07:16] [Server thread/INFO]: Done (3.890s)! For help, type "help"
+[23:08:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:09:13] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
+[23:09:15] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:48512] logged in with entity id 5 at (135.51000800274184, 85.0, 909.5504898117961)
+[23:09:15] [Server thread/INFO]: PapayaModera joined the game
+[23:11:49] [Server thread/INFO]: <PapayaModera> -232 800
+[23:20:05] [Server thread/INFO]: PapayaModera lost connection: Disconnected
+[23:20:05] [Server thread/INFO]: PapayaModera left the game
+[23:21:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
