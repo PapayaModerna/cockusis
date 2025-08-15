@@ -2563,9 +2563,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_lapis_lazuli": "2025-08-14 01:24:33 +0000"
+      "blaze_rod": "2025-08-13 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-13 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-13 23:30:07 +0000"
     },
     "done": true
   },
@@ -2575,21 +2587,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_honey_block": "2025-08-13 23:47:23 +0000"
+      "has_blaze_powder": "2025-08-13 23:30:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_lapis_lazuli": "2025-08-14 01:24:33 +0000"
+      "has_blaze_powder": "2025-08-13 23:30:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_bone_meal": "2025-08-14 00:28:56 +0000"
+      "has_wood_slab": "2025-08-13 23:36:39 +0000"
     },
     "done": true
   },
@@ -2605,36 +2617,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-13 23:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-13 23:36:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-13 23:30:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-13 23:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-13 23:30:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-13 23:38:53 +0000"
@@ -2647,9 +2629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "has_blaze_rod": "2025-08-13 23:30:07 +0000"
+      "has_honey_block": "2025-08-13 23:47:23 +0000"
     },
     "done": true
   },
@@ -2659,9 +2641,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 00:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-08-14 00:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-14 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-14 01:24:33 +0000"
     },
     "done": true
   },
