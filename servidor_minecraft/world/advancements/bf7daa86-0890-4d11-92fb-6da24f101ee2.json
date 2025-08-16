@@ -765,6 +765,7 @@
       "cooked_porkchop": "2025-08-13 04:00:41 +0000",
       "apple": "2025-08-13 20:57:21 +0000",
       "golden_apple": "2025-08-13 05:43:59 +0000",
+      "bread": "2025-08-16 22:11:48 +0000",
       "cookie": "2025-08-12 21:41:37 +0000",
       "cooked_mutton": "2025-08-12 20:53:43 +0000",
       "cooked_cod": "2025-08-16 00:00:28 +0000",
@@ -3142,6 +3143,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-16 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-16 22:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
@@ -3157,6 +3170,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-16 22:07:27 +0000"
     },
     "done": true
   },
@@ -3178,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-16 22:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
@@ -3189,6 +3214,12 @@
       "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-16 22:03:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
@@ -3205,6 +3236,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-16 22:07:27 +0000"
     },
     "done": true
   },
@@ -3226,9 +3263,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-08-16 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-16 22:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-16 22:09:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-16 22:07:27 +0000"
     },
     "done": true
   },
@@ -3265,6 +3326,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-08-16 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2025-08-16 22:06:04 +0000"
     },
     "done": true
   },
@@ -3331,6 +3398,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-16 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-16 22:05:21 +0000"
     },
     "done": true
   },
