@@ -1,29 +1,3 @@
-[23:07:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:07:12] [ServerMain/INFO]: Loaded 1407 recipes
-[23:07:12] [ServerMain/INFO]: Loaded 1520 advancements
-[23:07:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:07:12] [Server thread/INFO]: Loading properties
-[23:07:12] [Server thread/INFO]: Default game type: SURVIVAL
-[23:07:12] [Server thread/INFO]: Generating keypair
-[23:07:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:07:12] [Server thread/INFO]: Using epoll channel type
-[23:07:12] [Server thread/INFO]: Preparing level "world"
-[23:07:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[23:07:16] [Server thread/INFO]: Time elapsed: 3541 ms
-[23:07:16] [Server thread/INFO]: Done (3.890s)! For help, type "help"
-[23:08:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:09:13] [User Authenticator #1/INFO]: UUID of player PapayaModera is bf7daa86-0890-4d11-92fb-6da24f101ee2
-[23:09:15] [Server thread/INFO]: PapayaModera[/[0:0:0:0:0:0:0:1]:48512] logged in with entity id 5 at (135.51000800274184, 85.0, 909.5504898117961)
-[23:09:15] [Server thread/INFO]: PapayaModera joined the game
-[23:11:49] [Server thread/INFO]: <PapayaModera> -232 800
-[23:20:05] [Server thread/INFO]: PapayaModera lost connection: Disconnected
-[23:20:05] [Server thread/INFO]: PapayaModera left the game
-[23:21:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:00:33] [Server thread/INFO]: PapayaModera lost connection: Disconnected
+[00:00:33] [Server thread/INFO]: PapayaModera left the game
+[00:01:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
