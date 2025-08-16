@@ -2985,6 +2985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-08-16 23:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-16 20:54:56 +0000"
@@ -3132,6 +3138,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-08-16 23:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-16 23:12:30 +0000"
     },
     "done": true
   },
