@@ -769,6 +769,7 @@
       "cooked_mutton": "2025-08-12 20:53:43 +0000",
       "cooked_cod": "2025-08-16 00:00:28 +0000",
       "cooked_beef": "2025-08-12 21:11:27 +0000",
+      "baked_potato": "2025-08-16 21:53:30 +0000",
       "golden_carrot": "2025-08-12 20:43:40 +0000"
     },
     "done": false
@@ -830,16 +831,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-12 21:03:03 +0000",
-      "minecraft:piglin": "2025-08-13 23:21:27 +0000",
       "minecraft:phantom": "2025-08-12 23:17:20 +0000",
+      "minecraft:witch": "2025-08-14 00:57:14 +0000",
+      "minecraft:ghast": "2025-08-12 21:18:26 +0000",
+      "minecraft:hoglin": "2025-08-12 21:19:20 +0000",
+      "minecraft:cave_spider": "2025-08-16 22:01:55 +0000",
+      "minecraft:piglin": "2025-08-13 23:21:27 +0000",
       "minecraft:breeze": "2025-08-16 21:44:02 +0000",
       "minecraft:enderman": "2025-08-16 20:58:38 +0000",
-      "minecraft:witch": "2025-08-14 00:57:14 +0000",
+      "minecraft:stray": "2025-08-16 21:58:01 +0000",
       "minecraft:spider": "2025-08-12 20:49:05 +0000",
       "minecraft:zombie": "2025-08-14 00:09:26 +0000",
-      "minecraft:drowned": "2025-08-15 23:17:43 +0000",
-      "minecraft:ghast": "2025-08-12 21:18:26 +0000",
-      "minecraft:hoglin": "2025-08-12 21:19:20 +0000"
+      "minecraft:drowned": "2025-08-15 23:17:43 +0000"
     },
     "done": false
   },
@@ -3133,6 +3136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
@@ -3163,15 +3172,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-16 21:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-08-16 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
     },
     "done": true
   },
@@ -3190,6 +3223,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-16 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
     },
     "done": true
   },
@@ -3220,6 +3259,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-08-16 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-16 21:56:19 +0000"
     },
     "done": true
   },
@@ -3259,9 +3304,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-08-16 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-08-16 21:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-16 21:56:19 +0000"
     },
     "done": true
   },
