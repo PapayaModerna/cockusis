@@ -2880,15 +2880,57 @@
     },
     "done": true
   },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-08-16 21:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-08-16 20:39:55 +0000"
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-16 21:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-16 20:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-16 20:54:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-08-16 20:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-16 20:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 21:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 21:01:32 +0000"
     },
     "done": true
   },
