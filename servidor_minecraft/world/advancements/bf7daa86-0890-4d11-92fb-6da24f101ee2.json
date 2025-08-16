@@ -3169,6 +3169,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-16 23:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
@@ -3414,6 +3420,12 @@
       "has_honeycomb": "2025-08-16 22:05:21 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-08-16 23:20:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4440
 }
