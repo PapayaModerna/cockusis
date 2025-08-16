@@ -55,3 +55,6 @@
 [23:01:55] [Server thread/INFO]: Dned_0 has made the advancement [A Seedy Place]
 [23:20:14] [Server thread/INFO]: PapayaModera has made the advancement [Best Friends Forever]
 [23:31:41] [Server thread/INFO]: Villager cuf['Villager'/39320, l='ServerLevel[world]', x=101.95, y=78.19, z=884.91] died, message: 'Villager was slain by Zombie'
+[23:52:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=335, y=-19, z=833} jb{x=345, y=-21, z=842}
+[23:54:33] [Server thread/INFO]: PapayaModera has reached the goal [Revaulting]
+[23:54:50] [Server thread/INFO]: Dned_0 has reached the goal [Revaulting]
