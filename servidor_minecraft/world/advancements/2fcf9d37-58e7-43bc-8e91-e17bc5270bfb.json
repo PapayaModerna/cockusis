@@ -1202,6 +1202,7 @@
       "minecraft:blaze": "2025-08-13 22:00:54 +0000",
       "minecraft:skeleton": "2025-08-12 21:03:37 +0000",
       "minecraft:piglin": "2025-08-12 22:33:41 +0000",
+      "minecraft:phantom": "2025-08-16 20:40:55 +0000",
       "minecraft:zombified_piglin": "2025-08-13 23:24:37 +0000",
       "minecraft:enderman": "2025-08-14 00:08:57 +0000",
       "minecraft:magma_cube": "2025-08-13 21:52:31 +0000",
@@ -2876,6 +2877,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-14 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-08-16 20:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-16 20:39:48 +0000"
     },
     "done": true
   },
