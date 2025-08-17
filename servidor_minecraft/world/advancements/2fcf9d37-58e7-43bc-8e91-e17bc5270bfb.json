@@ -1218,7 +1218,8 @@
       "minecraft:magma_cube": "2025-08-13 21:52:31 +0000",
       "minecraft:spider": "2025-08-16 22:42:27 +0000",
       "minecraft:zombie": "2025-08-14 00:10:11 +0000",
-      "minecraft:creeper": "2025-08-16 21:30:16 +0000"
+      "minecraft:creeper": "2025-08-16 21:30:16 +0000",
+      "minecraft:slime": "2025-08-17 00:04:52 +0000"
     },
     "done": false
   },
@@ -2992,6 +2993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 00:05:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-08-16 21:43:26 +0000"
@@ -3208,6 +3215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 00:05:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:43:00 +0000"
@@ -3385,6 +3398,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-08-16 21:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-17 00:10:20 +0000"
     },
     "done": true
   },
