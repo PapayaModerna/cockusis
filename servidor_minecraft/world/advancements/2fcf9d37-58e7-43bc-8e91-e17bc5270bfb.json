@@ -425,6 +425,7 @@
       "cooked_porkchop": "2025-08-13 03:44:23 +0000",
       "bread": "2025-08-16 21:54:14 +0000",
       "cooked_chicken": "2025-08-16 21:51:38 +0000",
+      "honey_bottle": "2025-08-16 23:56:49 +0000",
       "cookie": "2025-08-12 19:32:37 +0000",
       "cooked_mutton": "2025-08-13 21:40:33 +0000",
       "mushroom_stew": "2025-08-13 22:32:13 +0000",
@@ -3138,6 +3139,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-16 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-08-16 23:54:50 +0000"
     },
     "done": true
   },

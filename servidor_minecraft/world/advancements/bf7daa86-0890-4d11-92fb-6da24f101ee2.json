@@ -768,6 +768,7 @@
       "golden_apple": "2025-08-13 05:43:59 +0000",
       "bread": "2025-08-16 22:11:48 +0000",
       "cooked_chicken": "2025-08-16 22:44:34 +0000",
+      "honey_bottle": "2025-08-16 23:57:11 +0000",
       "cookie": "2025-08-12 21:41:37 +0000",
       "cooked_mutton": "2025-08-12 20:53:43 +0000",
       "cooked_cod": "2025-08-16 00:00:28 +0000",
@@ -3139,6 +3140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-08-17 00:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
@@ -3241,6 +3248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-16 23:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/waxed_copper_bulb": {
     "criteria": {
       "has_waxed_copper_block": "2025-08-16 23:47:48 +0000"
@@ -3283,9 +3296,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-17 00:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-16 21:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-17 00:01:47 +0000"
     },
     "done": true
   },
@@ -3298,6 +3323,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-16 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-08-16 23:54:33 +0000"
     },
     "done": true
   },
@@ -3430,6 +3461,12 @@
   "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-16 21:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-17 00:01:47 +0000"
     },
     "done": true
   },
